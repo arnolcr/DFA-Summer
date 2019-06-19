@@ -1,3 +1,3 @@
 ## THis is Your First Python Challenge
 
-[Challenge Instructions](Challenge Instructions)
+[Python Challenge Instructions](Python Challenge Instructions)
