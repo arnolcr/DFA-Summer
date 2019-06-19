@@ -1,6 +1,6 @@
 ## DFA Math 7th Grade Python Project
 
-For more information on getting setup with Python: [Python Setup](pythondownload.md)
+For more information on getting setup with Python: [Python Setup](Pythondownload.md)
 
 
 You can use the [editor on GitHub](https://github.com/arnolcr/DFA-Summer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
