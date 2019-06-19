@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DFA Math 7th Grade Python Project
 
 You can use the [editor on GitHub](https://github.com/arnolcr/DFA-Summer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
